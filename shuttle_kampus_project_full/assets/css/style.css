@@ -1,0 +1,11 @@
+body {
+    background-color: #f5f6fa;
+}
+
+.nav-tabs .nav-link.active {
+    font-weight: 600;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
